@@ -1,9 +1,9 @@
 using System;
-//using Flunt.Notifications;
+using Flunt.Notifications;
 
 namespace Store.Domain.Entities
 {
-    public class Entity //: Notifiable
+    public class Entity : Notifiable
     {
         public Entity()
         {
