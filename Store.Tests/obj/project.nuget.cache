@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "eRvCOegcuNnCmKapMdodfaT4U39cTxRU8yNwpjWKVHQOWAMmP30hqu+JjMI4ZCBCtEnuaf1gbp5bHwf69RLwlQ==",
+  "dgSpecHash": "TZIeJRsg7zHSJ4cSSwvyX1K1Mm46soARYJpG8D5z/wuFn7CCh/7L1i8qRhLSgKU0vBBvlUAwhhXcG5hNWfCs8A==",
   "success": true,
   "projectFilePath": "C:\\Dropbox\\balta\\carreira_csharp\\Refatorando_para_testes_de_unidade\\Store.Tests\\Store.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaop\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
     "C:\\Users\\joaop\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\joaop\\.nuget\\packages\\microsoft.net.test.sdk\\16.7.1\\microsoft.net.test.sdk.16.7.1.nupkg.sha512",
