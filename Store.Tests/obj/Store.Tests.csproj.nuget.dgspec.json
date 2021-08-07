@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dropbox\\balta\\carreira_csharp\\Refatorando_para_testes_de_unidade\\Store.Tests\\Store.Tests.csproj": {}
+    "/home/joao/Desenvolvimento/Balta/Refatorando_para_testes_de_unidade/Store.Tests/Store.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Dropbox\\balta\\carreira_csharp\\Refatorando_para_testes_de_unidade\\Store.Domain\\Store.Domain.csproj": {
+    "/home/joao/Desenvolvimento/Balta/Refatorando_para_testes_de_unidade/Store.Domain/Store.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dropbox\\balta\\carreira_csharp\\Refatorando_para_testes_de_unidade\\Store.Domain\\Store.Domain.csproj",
+        "projectUniqueName": "/home/joao/Desenvolvimento/Balta/Refatorando_para_testes_de_unidade/Store.Domain/Store.Domain.csproj",
         "projectName": "Store.Domain",
-        "projectPath": "C:\\Dropbox\\balta\\carreira_csharp\\Refatorando_para_testes_de_unidade\\Store.Domain\\Store.Domain.csproj",
-        "packagesPath": "C:\\Users\\joaop\\.nuget\\packages\\",
-        "outputPath": "C:\\Dropbox\\balta\\carreira_csharp\\Refatorando_para_testes_de_unidade\\Store.Domain\\obj\\",
+        "projectPath": "/home/joao/Desenvolvimento/Balta/Refatorando_para_testes_de_unidade/Store.Domain/Store.Domain.csproj",
+        "packagesPath": "/home/joao/.nuget/packages/",
+        "outputPath": "/home/joao/Desenvolvimento/Balta/Refatorando_para_testes_de_unidade/Store.Domain/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\joaop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/joao/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,41 +58,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Dropbox\\balta\\carreira_csharp\\Refatorando_para_testes_de_unidade\\Store.Tests\\Store.Tests.csproj": {
+    "/home/joao/Desenvolvimento/Balta/Refatorando_para_testes_de_unidade/Store.Tests/Store.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dropbox\\balta\\carreira_csharp\\Refatorando_para_testes_de_unidade\\Store.Tests\\Store.Tests.csproj",
+        "projectUniqueName": "/home/joao/Desenvolvimento/Balta/Refatorando_para_testes_de_unidade/Store.Tests/Store.Tests.csproj",
         "projectName": "Store.Tests",
-        "projectPath": "C:\\Dropbox\\balta\\carreira_csharp\\Refatorando_para_testes_de_unidade\\Store.Tests\\Store.Tests.csproj",
-        "packagesPath": "C:\\Users\\joaop\\.nuget\\packages\\",
-        "outputPath": "C:\\Dropbox\\balta\\carreira_csharp\\Refatorando_para_testes_de_unidade\\Store.Tests\\obj\\",
+        "projectPath": "/home/joao/Desenvolvimento/Balta/Refatorando_para_testes_de_unidade/Store.Tests/Store.Tests.csproj",
+        "packagesPath": "/home/joao/.nuget/packages/",
+        "outputPath": "/home/joao/Desenvolvimento/Balta/Refatorando_para_testes_de_unidade/Store.Tests/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\joaop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/joao/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Dropbox\\balta\\carreira_csharp\\Refatorando_para_testes_de_unidade\\Store.Domain\\Store.Domain.csproj": {
-                "projectPath": "C:\\Dropbox\\balta\\carreira_csharp\\Refatorando_para_testes_de_unidade\\Store.Domain\\Store.Domain.csproj"
+              "/home/joao/Desenvolvimento/Balta/Refatorando_para_testes_de_unidade/Store.Domain/Store.Domain.csproj": {
+                "projectPath": "/home/joao/Desenvolvimento/Balta/Refatorando_para_testes_de_unidade/Store.Domain/Store.Domain.csproj"
               }
             }
           }
@@ -146,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }
